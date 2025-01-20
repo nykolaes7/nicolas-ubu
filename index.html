@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="top-half">
+            <img src="image1.jpg" alt="Image 1">
+        </div>
+        
+        <div class="bottom-half">
+            <div class="navigation">
+                <!-- Home navigation (only visible on home screen) -->
+                <div class="home-nav">
+                    <table>
+                        <tr><td class="static-text">Nicolas Peeters</td></tr>
+                        <tr><td><a href="#" class="nav-link" data-section="current">Current Projects</a></td></tr>
+                        <tr><td><a href="#" class="nav-link" data-section="archive">Archive</a></td></tr>
+                        <tr><td><a href="#" class="nav-link" data-section="contact">Contact</a></td></tr>
+                    </table>
+                </div>
+                <!-- Back button (only visible in other sections) -->
+                <div class="back-nav" style="display: none;">
+                    <table>
+                        <tr><td><a href="#" class="nav-link" data-section="home">Back to Home</a></td></tr>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="content">
+                <div id="home" class="content-section active">
+                    <!-- Empty home section -->
+                </div>
+                <div id="current" class="content-section">
+                    <h2>Shows and Exhibitions</h2>
+                    <div class="calendar">
+                        <table class="calendar-table">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Event</th>
+                                    <th>Location</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Dynamic content here -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div id="archive" class="content-section">
+                    <h2>Archive</h2>
+                    <div class="project-list">
+                        <!-- Dynamic content here -->
+                    </div>
+                </div>
+                
+                <div id="contact" class="content-section">
+                    <h2>Contact</h2>
+                    <div class="contact-info">
+                        <a href="mailto:nicolas.peeters.2000@gmail.com" class="email-link">nicolas.peeters.2000@gmail.com</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

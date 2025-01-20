@@ -1,0 +1,65 @@
+{
+  "currentProjects": [
+    {
+      "date": "January 17-26, 2025",
+      "event": "How soon is now?",
+      "location": "Maison des arts, Schaerbeek"
+    },
+    {
+      "date": "December 24, 2024 - March 24, 2025",
+      "event": "Hatching from scratch",
+      "location": "Kunsthal, Mechelen"
+    },
+    {
+      "date": "January 30, 2025",
+      "event": "RIP de nooit moede",
+      "location": "Pilar, Brussels"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "Mushroom Radio",
+      "location": "Garage Noord, Amsterdam"
+    },
+    {
+      "date": "February 19, 2025",
+      "event": "Spookhuis w/Nykolaes",
+      "location": "Kiosk Radio, Brussels"
+    }
+  ],
+  "archiveProjects": [
+    {
+      "title": "Graduation show KASK",
+      "description": "À donner, chat perdu onder deze titel brengt Nicolas een anders onzichtbare onderstroom van vraag en aanbod in beeld. Een jaren '80 alarmsysteem met hondengeblaf leidt ons binnen in een ruimte met steedsveranderende object- en klankcomposities. Samen vormen ze een soort van soundscape. Een beetje zoals een drukke straat of metro inwandelen en tegelijkertijd op alles en op niets kunnen of willen intunen. Vanuit de associatie met de te-geef-voorwerpen uit de Brusselse straten lijkt het één en ander tastbaar te worden. Telefoons, een anders misschien nooit beluisterde cassette met meertalige voicemailberichtjes, een straatmuzikant, vuiligheid in de rand, maar evenzeer recht in het gezicht, gejengel, langs de muur lopende kabels en halfopen posterkaders, aangedampte ramen, tags op prefab, een plotse bel, maar ook continue zoemende geluiden. Of specifieker, in alle dissonantie, miscommunicatie en disfunctionaliteit ontwaren we een eigensoortig, vibrerend portret van een ongrijpbare hoofdstad en zijn meer dan één miljoen inwoners. Beleven we hier een soort van nooit eerder gemaakte advertentie voor de stad? Een viering van zijn chaotisch, verbrokkeld, meertalig en muzikaal karakter? Door de kloppende, natuurlijk in elkaar vallende aard van de composities concluderen we dat de kunstenaar hier in zijn element is. Het voelt aan als een uitdaging die hij is aangegaan en waarin hij zonder ook maar iets uitdrukkelijk te benoemen in geslaagd is. In het oproepen van dit soort persoonlijke interpretaties en het afdwingen van tijd, aandacht en isolatie om hiertoe te komen, schuilt een talent. Het gaat hier niet om een onmiddellijk contact, maar om het met wisselend succes proberen bereiken van de kijker. Spreek een boodschap in na de biep tuut tuut tuut.",
+      "images": [
+        {
+          "path": "archive/project1/image1.jpg",
+          "caption": "Raster 2024"
+        },
+        {
+          "path": "archive/project1/image2.jpg",
+          "caption": "Gitaar 2024"
+        }
+      ]
+    },
+    {
+      "title": "Lucky to have met you",
+      "description": "Installation for: 'How soon is now?' in Maison des arts. (Exhibition Text) The work of Nicolas Peters exists at the intersection of music and visual art. He studied at KASK & Conservatorium in Ghent, where he further developed his passion for sound and visual art. Nicolas approaches life as a grand montage, one he can observe, listen to, or cut and paste. His practice is deeply inspired by his fascination with media that have been abandoned, lost, or discarded. By placing them in a new context and integrating them into his art, he assigns them new roles or value. His method is a form of assemblage, bringing together found objects and sounds into a new, meaningful experience.",
+      "images": [
+        {
+          "path": "archive/project2/image1.jpg",
+          "caption": "Photo by Luay"
+        }
+      ]
+    },
+    {
+      "title": "Neofolk",
+      "description": "Nykolaes and Daniel Paul both grew up in the Flemish fields before cohousing together in Brussels. With their album Neofolk (on the Toverberg label), they made one of the most beautiful and underrated Belgian albums of 2023. Think soft, half-mumbled and half-sung songs combining guitar and electronics, sometimes in autotune, sometimes out of tune. Emotional and honest living room music in English and Dutch. Or what happens when friends spontaneously make a record with a couple of strings, lo-fi equipment, lots of love and honesty.",
+      "images": [
+        {
+          "path": "archive/project3/image1.jpg",
+          "caption": "https://open.spotify.com/album/4lf6vRXQcFyvilIk06Nab9?si=vKeA3V14SluY6-TxvvacBw"
+        }
+      ]
+    }
+  ]
+}
