@@ -1,7 +1,6 @@
 {
   "currentProjects": [
     {
-<<<<<<< HEAD
       "date": "February 19, 2025",
       "event": "Spookhuis w/Nykolaes",
       "location": "Kiosk Radio, Brussels"
@@ -22,8 +21,6 @@
       "location": "Pilar, Brussels"
     },
     {
-=======
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "date": "January 17-26, 2025",
       "event": "How soon is now?",
       "location": "Maison des arts, Schaerbeek"
@@ -34,7 +31,6 @@
       "location": "Kunsthal, Mechelen"
     },
     {
-<<<<<<< HEAD
       "date": "October 11, 2024",
       "event": "Performance",
       "location": "De Nieuwe Anita, Amsterdam"
@@ -103,33 +99,13 @@
       "date": "April 15, 2023",
       "event": "Performance",
       "location": "C-mine, Genk"
-=======
-      "date": "January 30, 2025",
-      "event": "RIP de nooit moede",
-      "location": "Pilar, Brussels"
-    },
-    {
-      "date": "February 13, 2025",
-      "event": "Mushroom Radio",
-      "location": "Garage Noord, Amsterdam"
-    },
-    {
-      "date": "February 19, 2025",
-      "event": "Spookhuis w/Nykolaes",
-      "location": "Kiosk Radio, Brussels"
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
     }
   ],
   "archiveProjects": [
     {
-<<<<<<< HEAD
       "title": "À donner, chat perdu",
       "description": "À donner, chat perdu – onder deze titel brengt Nicolas een anders onzichtbare onderstroom van vraag en aanbod in beeld. Een jaren '80 alarmsysteem met hondengeblaf leidt ons binnen in een ruimte met steedsveranderende object- en klankcomposities. Samen vormen ze een soort van soundscape. Een beetje zoals een drukke straat of metro inwandelen en tegelijkertijd op alles en op niets kunnen of willen intunen. Vanuit de associatie met de te-geef-voorwerpen uit de Brusselse straten lijkt het één en ander tastbaar te worden. Telefoons, een anders misschien nooit beluisterde cassette met meertalige voicemailberichtjes, een straatmuzikant, vuiligheid in de rand, maar evenzeer recht in het gezicht, gejengel, langs de muur lopende kabels en halfopen posterkaders, aangedampte ramen, tags op prefab, een plotse bel, maar ook continue zoemende geluiden. Of specifieker, in alle dissonantie, miscommunicatie en disfunctionaliteit ontwaren we een eigensoortig, vibrerend portret van een ongrijpbare hoofdstad en zijn meer dan één miljoen inwoners. Beleven we hier een soort van nooit eerder gemaakte advertentie voor de stad? Een viering van zijn chaotisch, verbrokkeld, meertalig en muzikaal karakter? Door de kloppende, natuurlijk in elkaar vallende aard van de composities concluderen we dat de kunstenaar hier in zijn element is. Het voelt aan als een uitdaging die hij is aangegaan en waarin hij zonder ook maar iets uitdrukkelijk te benoemen in geslaagd is. In het oproepen van dit soort persoonlijke interpretaties en het afdwingen van tijd, aandacht en isolatie om hiertoe te komen, schuilt een talent. Het gaat hier niet om een onmiddellijk contact, maar om het met wisselend succes proberen bereiken van de kijker. \"Spreek een boodschap in na de biep – tuut tuut tuut.\"",
       "video": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/999180611?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Nicolas Peeters captatie graduation Kask&amp;Conservatorium 2024\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
-=======
-      "title": "Graduation show KASK",
-      "description": "À donner, chat perdu onder deze titel brengt Nicolas een anders onzichtbare onderstroom van vraag en aanbod in beeld. Een jaren '80 alarmsysteem met hondengeblaf leidt ons binnen in een ruimte met steedsveranderende object- en klankcomposities. Samen vormen ze een soort van soundscape. Een beetje zoals een drukke straat of metro inwandelen en tegelijkertijd op alles en op niets kunnen of willen intunen. Vanuit de associatie met de te-geef-voorwerpen uit de Brusselse straten lijkt het één en ander tastbaar te worden. Telefoons, een anders misschien nooit beluisterde cassette met meertalige voicemailberichtjes, een straatmuzikant, vuiligheid in de rand, maar evenzeer recht in het gezicht, gejengel, langs de muur lopende kabels en halfopen posterkaders, aangedampte ramen, tags op prefab, een plotse bel, maar ook continue zoemende geluiden. Of specifieker, in alle dissonantie, miscommunicatie en disfunctionaliteit ontwaren we een eigensoortig, vibrerend portret van een ongrijpbare hoofdstad en zijn meer dan één miljoen inwoners. Beleven we hier een soort van nooit eerder gemaakte advertentie voor de stad? Een viering van zijn chaotisch, verbrokkeld, meertalig en muzikaal karakter? Door de kloppende, natuurlijk in elkaar vallende aard van de composities concluderen we dat de kunstenaar hier in zijn element is. Het voelt aan als een uitdaging die hij is aangegaan en waarin hij zonder ook maar iets uitdrukkelijk te benoemen in geslaagd is. In het oproepen van dit soort persoonlijke interpretaties en het afdwingen van tijd, aandacht en isolatie om hiertoe te komen, schuilt een talent. Het gaat hier niet om een onmiddellijk contact, maar om het met wisselend succes proberen bereiken van de kijker. Spreek een boodschap in na de biep tuut tuut tuut.",
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "images": [
         {
           "path": "archive/project1/image1.jpg",
@@ -138,7 +114,6 @@
         {
           "path": "archive/project1/image2.jpg",
           "caption": "Gitaar 2024"
-<<<<<<< HEAD
         },
         {
           "path": "archive/project1/image3.jpg",
@@ -179,13 +154,10 @@
         {
           "path": "archive/project1/image12.jpg",
           "caption": "Tante Telefoon (2024)"
-=======
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
         }
       ]
     },
     {
-<<<<<<< HEAD
       "title": "Lucky to have met",
       "description": [
         {
@@ -202,10 +174,6 @@
         }
       ],
       "video": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/1053714949?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"'Lucky to have met'\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
-=======
-      "title": "Lucky to have met you",
-      "description": "Installation for: 'How soon is now?' in Maison des arts. (Exhibition Text) The work of Nicolas Peters exists at the intersection of music and visual art. He studied at KASK & Conservatorium in Ghent, where he further developed his passion for sound and visual art. Nicolas approaches life as a grand montage, one he can observe, listen to, or cut and paste. His practice is deeply inspired by his fascination with media that have been abandoned, lost, or discarded. By placing them in a new context and integrating them into his art, he assigns them new roles or value. His method is a form of assemblage, bringing together found objects and sounds into a new, meaningful experience.",
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "images": [
         {
           "path": "archive/project2/image1.jpg",
@@ -221,7 +189,6 @@
           "path": "archive/project3/image1.jpg",
           "caption": "https://open.spotify.com/album/4lf6vRXQcFyvilIk06Nab9?si=vKeA3V14SluY6-TxvvacBw"
         }
-<<<<<<< HEAD
       ],
       "pdfs": [
         {
@@ -288,8 +255,6 @@
           "path": "archive/project6/film.pdf",
           "caption": "Film Portfolio"
         }
-=======
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       ]
     }
   ]

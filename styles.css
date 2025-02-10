@@ -98,14 +98,11 @@ td {
 
 .calendar-table th {
     background-color: #330000;
-<<<<<<< HEAD
     color: #ffffff;
 }
 
 .calendar-table td {
     color: #000000;
-=======
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
 }
 
 /* Archive Project Styles */
@@ -280,7 +277,6 @@ button[type="submit"]:hover {
     margin-top: 10px;
     font-size: 14px;
     font-family: "Courier New", Courier, monospace;
-<<<<<<< HEAD
 }
 
 .project-pdfs {
@@ -318,6 +314,4 @@ button[type="submit"]:hover {
     font-size: 12px;
     margin-top: 10px;
     font-family: "Courier New", Courier, monospace;
-=======
->>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
 }
