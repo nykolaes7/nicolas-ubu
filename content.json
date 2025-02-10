@@ -1,6 +1,29 @@
 {
   "currentProjects": [
     {
+<<<<<<< HEAD
+      "date": "February 19, 2025",
+      "event": "Spookhuis w/Nykolaes",
+      "location": "Kiosk Radio, Brussels"
+    },
+    {
+      "date": "February 13, 2025",
+      "event": "Mushroom Radio",
+      "location": "Garage Noord, Amsterdam"
+    },
+    {
+      "date": "February 10, 2025",
+      "event": "Graduation Show",
+      "location": "KASK, Gent"
+    },
+    {
+      "date": "January 30, 2025",
+      "event": "RIP de nooit moede",
+      "location": "Pilar, Brussels"
+    },
+    {
+=======
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "date": "January 17-26, 2025",
       "event": "How soon is now?",
       "location": "Maison des arts, Schaerbeek"
@@ -11,6 +34,76 @@
       "location": "Kunsthal, Mechelen"
     },
     {
+<<<<<<< HEAD
+      "date": "October 11, 2024",
+      "event": "Performance",
+      "location": "De Nieuwe Anita, Amsterdam"
+    },
+    {
+      "date": "July 21 - August 31, 2024",
+      "event": "Triennal / We Are / Art is!",
+      "location": "Bruges"
+    },
+    {
+      "date": "September 20, 2024",
+      "event": "Performance",
+      "location": "STUK, Leuven"
+    },
+    {
+      "date": "June 2024",
+      "event": "Graduation Show",
+      "location": "KASK, Gent"
+    },
+    {
+      "date": "May 26, 2024",
+      "event": "Performance",
+      "location": "Botanique, Brussels"
+    },
+    {
+      "date": "May 23, 2024",
+      "event": "Performance",
+      "location": "Democrazy, Antwerpen"
+    },
+    {
+      "date": "May 2, 2024",
+      "event": "Performance",
+      "location": "Atelier210, Brussels"
+    },
+    {
+      "date": "April 25, 2024",
+      "event": "Performance",
+      "location": "Pianofabriek, Brussels"
+    },
+    {
+      "date": "April 20, 2024",
+      "event": "Performance",
+      "location": "Brasserie Atlas, Brussels"
+    },
+    {
+      "date": "February 9, 2024",
+      "event": "Performance",
+      "location": "TRIX, Antwerpen"
+    },
+    {
+      "date": "December 2023",
+      "event": "Cursor Fever",
+      "location": "Amsterdam Vrijpaleis"
+    },
+    {
+      "date": "November 24, 2023",
+      "event": "Performance",
+      "location": "Botanique, Brussels"
+    },
+    {
+      "date": "June 23, 2023",
+      "event": "Performance",
+      "location": "Botanique, Brussels"
+    },
+    {
+      "date": "April 15, 2023",
+      "event": "Performance",
+      "location": "C-mine, Genk"
+=======
       "date": "January 30, 2025",
       "event": "RIP de nooit moede",
       "location": "Pilar, Brussels"
@@ -24,12 +117,19 @@
       "date": "February 19, 2025",
       "event": "Spookhuis w/Nykolaes",
       "location": "Kiosk Radio, Brussels"
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
     }
   ],
   "archiveProjects": [
     {
+<<<<<<< HEAD
+      "title": "À donner, chat perdu",
+      "description": "À donner, chat perdu – onder deze titel brengt Nicolas een anders onzichtbare onderstroom van vraag en aanbod in beeld. Een jaren '80 alarmsysteem met hondengeblaf leidt ons binnen in een ruimte met steedsveranderende object- en klankcomposities. Samen vormen ze een soort van soundscape. Een beetje zoals een drukke straat of metro inwandelen en tegelijkertijd op alles en op niets kunnen of willen intunen. Vanuit de associatie met de te-geef-voorwerpen uit de Brusselse straten lijkt het één en ander tastbaar te worden. Telefoons, een anders misschien nooit beluisterde cassette met meertalige voicemailberichtjes, een straatmuzikant, vuiligheid in de rand, maar evenzeer recht in het gezicht, gejengel, langs de muur lopende kabels en halfopen posterkaders, aangedampte ramen, tags op prefab, een plotse bel, maar ook continue zoemende geluiden. Of specifieker, in alle dissonantie, miscommunicatie en disfunctionaliteit ontwaren we een eigensoortig, vibrerend portret van een ongrijpbare hoofdstad en zijn meer dan één miljoen inwoners. Beleven we hier een soort van nooit eerder gemaakte advertentie voor de stad? Een viering van zijn chaotisch, verbrokkeld, meertalig en muzikaal karakter? Door de kloppende, natuurlijk in elkaar vallende aard van de composities concluderen we dat de kunstenaar hier in zijn element is. Het voelt aan als een uitdaging die hij is aangegaan en waarin hij zonder ook maar iets uitdrukkelijk te benoemen in geslaagd is. In het oproepen van dit soort persoonlijke interpretaties en het afdwingen van tijd, aandacht en isolatie om hiertoe te komen, schuilt een talent. Het gaat hier niet om een onmiddellijk contact, maar om het met wisselend succes proberen bereiken van de kijker. \"Spreek een boodschap in na de biep – tuut tuut tuut.\"",
+      "video": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/999180611?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Nicolas Peeters captatie graduation Kask&amp;Conservatorium 2024\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
+=======
       "title": "Graduation show KASK",
       "description": "À donner, chat perdu onder deze titel brengt Nicolas een anders onzichtbare onderstroom van vraag en aanbod in beeld. Een jaren '80 alarmsysteem met hondengeblaf leidt ons binnen in een ruimte met steedsveranderende object- en klankcomposities. Samen vormen ze een soort van soundscape. Een beetje zoals een drukke straat of metro inwandelen en tegelijkertijd op alles en op niets kunnen of willen intunen. Vanuit de associatie met de te-geef-voorwerpen uit de Brusselse straten lijkt het één en ander tastbaar te worden. Telefoons, een anders misschien nooit beluisterde cassette met meertalige voicemailberichtjes, een straatmuzikant, vuiligheid in de rand, maar evenzeer recht in het gezicht, gejengel, langs de muur lopende kabels en halfopen posterkaders, aangedampte ramen, tags op prefab, een plotse bel, maar ook continue zoemende geluiden. Of specifieker, in alle dissonantie, miscommunicatie en disfunctionaliteit ontwaren we een eigensoortig, vibrerend portret van een ongrijpbare hoofdstad en zijn meer dan één miljoen inwoners. Beleven we hier een soort van nooit eerder gemaakte advertentie voor de stad? Een viering van zijn chaotisch, verbrokkeld, meertalig en muzikaal karakter? Door de kloppende, natuurlijk in elkaar vallende aard van de composities concluderen we dat de kunstenaar hier in zijn element is. Het voelt aan als een uitdaging die hij is aangegaan en waarin hij zonder ook maar iets uitdrukkelijk te benoemen in geslaagd is. In het oproepen van dit soort persoonlijke interpretaties en het afdwingen van tijd, aandacht en isolatie om hiertoe te komen, schuilt een talent. Het gaat hier niet om een onmiddellijk contact, maar om het met wisselend succes proberen bereiken van de kijker. Spreek een boodschap in na de biep tuut tuut tuut.",
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "images": [
         {
           "path": "archive/project1/image1.jpg",
@@ -38,12 +138,74 @@
         {
           "path": "archive/project1/image2.jpg",
           "caption": "Gitaar 2024"
+<<<<<<< HEAD
+        },
+        {
+          "path": "archive/project1/image3.jpg",
+          "caption": "Alarm / Hoop (2024)"
+        },
+        {
+          "path": "archive/project1/image4.jpg",
+          "caption": "Bel (2024) 2"
+        },
+        {
+          "path": "archive/project1/image5.jpg",
+          "caption": "Bel (2024)"
+        },
+        {
+          "path": "archive/project1/image6.jpg",
+          "caption": "Bill Bord (2024)"
+        },
+        {
+          "path": "archive/project1/image7.jpg",
+          "caption": "Kat Bord (2024) 2"
+        },
+        {
+          "path": "archive/project1/image8.jpg",
+          "caption": "Kat Bord (2024)"
+        },
+        {
+          "path": "archive/project1/image9.jpg",
+          "caption": "Orgel (2024)"
+        },
+        {
+          "path": "archive/project1/image10.jpg",
+          "caption": "Orgel 2 (2024)"
+        },
+        {
+          "path": "archive/project1/image11.jpg",
+          "caption": "Paaltje St Gillis (2024)"
+        },
+        {
+          "path": "archive/project1/image12.jpg",
+          "caption": "Tante Telefoon (2024)"
+=======
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "title": "Lucky to have met",
+      "description": [
+        {
+          "title": "Material",
+          "text": "2x archive box from deceased notary, Jette<br><br>Display-motor from discontinued jewellery shop, Leuven<br><br>Wooden picture frame with flower compartiment, St Gillis<br><br>Violin Bow from basement, Muziekacademie Schaerbeek<br><br>Bamboo from garden, Anderlecht<br><br>Violin and Cello strings.<br><br>Resin Block<br><br>Photo from trash container, St Gilles<br><br>Details and attachment pieces from toolbox, Vossenplein, Marollen"
+        },
+        {
+          "title": "Tekst Maison des Arts, 2025",
+          "text": "Nicolas Peeters works at the intersection of music and visual art. He studied at KASK & Conservatorium in Ghent, where he further developed his passion for sound and visual art. Nicolas approaches life as a big montage, one he can observe, listen to, or cut and paste in. His practice is deeply inspired by his fascination with media that has been abandoned, lost, or discarded. By placing them in a new context and integrating them into his art, he assigns them a new role or value. His method is a form of assemblage, bringing together found objects and sounds into a new, meaningful experience."
+        },
+        {
+          "title": "Tekst Maartje Claes, 2025",
+          "text": "Nicolas en ik dralen rond zijn installatie die opgesteld staat in het midden van de krakende parketvloer. Ik ben in het midden van de ochtend vertrokken naar Maison des Arts in Schaarbeek, waar ik een week eerder op de opening was geweest. Terwijl Nico schoorvoetend begint te vertellen, schuift een nieuwsgierige vrouw het gordijntje opzij dat toegang verleent tot een andere zaal van de tentoonstelling. Ze stelt een vraag die duidelijk al enige tijd op haar lippen brandt: \"Is het misschien een boîte à musique?\" Nicolas knikt, lacht en bevestigt dan halvelings. Hij zegt dat het net zo goed een duiveltje in een doosje had kunnen zijn, of een danseres die eindeloos danst zo lang de doos openstaat. 'Of een Fou', oppert de vrouw.\n\nIk kijk naar het werk en het doet me denken aan een film, een medium dat hij sinds enkele jaren links laat liggen. Toch is het alsof Nicolas het medium ter plaatse ontleedt in een stilstaand zwart-wit beeld en een schrapende soundtrack die gegenereerd wordt door een haastig opgelapte muziekdoos. Het geheel steunt op twee lege archiefkasten.\n\nNicolas vindt zijn materialen in de straten van Brussel, selecteert ze zorgvuldig en wacht tot enkele van de gevonden materialen in elkaar passen. Dit neemt hij nogal letterlijk. Zo past de donkergroene, verguisde archiefkast precies in de achterkant van de opnieuw besnaarde klankkast. Het is alsof de objecten hun eigen plaats opeisen als hij genoeg geduld koestert. De strijkstok is op een vernuftige DIY-wijze op een motor geplakt en bespeelt in een schijnbaar onophoudelijke loop de snaren die gespannen zijn over een stukje bamboe, dat met de nodige nonchalance in de bovenkant van de klankbak werd gevijsd. De tweede archiefkast staat er vlak naast opgesteld en bevat een antiek houten staandertje waarop een zwart-wit portret uitgestald staat.\n\nHet portret beeldt een jonge vrouw af die Nico beschrijft als 'bevroren in de tijd'. Met handen en voeten en de benodigde vertalingen, delen we onze gedachten met de vrouw die al die tijd in de deuropening is blijven staan. Meer dan een foto, doet het portret denken aan een film still, door de harde, cinematografische belichting. De vrouw staart in het niets, maar haar heldere ogen lichten op bij iets dat buiten het beeld valt. Haar breekbare blik leidt de mijne. Ze draagt haar droefheid als een geïsoleerd film noir personage zonder script, ongewild tonaal gemonteerd in deze installatie. Misschien voert ze een soort off-screen dialoog met de afwezige muzikant? Ze blijft onbewogen onder mijn voyeurisme, dat haar moeiteloos katapulteert naar naoorlogse nachtelijke scènes in een onbekende stad. Het narratief stokt en het beeld staat opnieuw stil. Ik beweeg mezelf naar de andere kant van de ruimte.\n\nAan de achterkant van de klankkast doet een verzameling vreemde, willekeurige objecten dienst als snaarstop. Die willekeur is bedrieglijk, want ook deze voorwerpen zijn bewust en naadloos geïntegreerd, na lang gerijpt te hebben in een van Nico's vijzendoosjes. Die bewuste omgang met zijn materialen is altijd in balans met een zekere impulsiviteit die hij graag bewaart. De keuzes mogen nooit te lang geweekt hebben en dit resulteert dan ook in een prototype-esthetiek die Nicolas kennelijk erg dierbaar is. Een tweede bezoeker heeft ons gezelschap ondertussen vervoegd en merkt op dat meer visuele afwerking de interne logica van het ding niet ten goede zou komen. En daarbij zou het de cohesie van de dissectie van de film verstoren; de afgelijndheid zou beweging, geluid en beeld opnieuw uit elkaar spelen. Een goedkeurend knikje volgt.\n\nHet gevoel dat de hele boel uit elkaar valt als het parket te hard zou meedeinen met ons verwoed getrappel, is deel van de suspense die Nicolas creëert. Hij wijst me op een veer aan de zijkant die geluid produceert wanneer de voeten van meerdere mensen tegelijkertijd het parket betreden. Het gebruikte materiaal, het ontheemde portret en het unheimliche geluid dat de strijkstok voortbrengt wanneer het de snaren in beroering brengt, brengen me in een vreemdsoortige ontroering. Al glijdt de strijkstok voorspelbaar in een steeds terugkerende draaicirkel, toch voelt het alsof de hele installatie er elk moment de brui aan zou kunnen geven. Nicolas vertrekt vanuit de zoektocht naar een specifieke sound, verglijdt in een gevecht met gevonden materiaal, waarna hij die queeste verbeeldt in een installatie met een aanzwellende onrust, die hij ergens vanuit zijn binnenste onttrekt. Aan hemzelf is op het eerste zicht niets te merken. Nicolas knielt en toont mij het blokje was dat hij tussen duim- en wijsvinger gekneld houdt en om maintenance-redenen deel werd van het werk. Voorovergebogen veegt zijn gestipte das de vloer. Er is iets onverwachts rustgevend aan het geschuur van die strijkstok, nu we allemaal zwijgend naar het ding kijken. Alsof ze je iets belooft, maar dat enkel, als ze uitgespeeld is."
+        }
+      ],
+      "video": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/1053714949?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"'Lucky to have met'\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>",
+=======
       "title": "Lucky to have met you",
       "description": "Installation for: 'How soon is now?' in Maison des arts. (Exhibition Text) The work of Nicolas Peters exists at the intersection of music and visual art. He studied at KASK & Conservatorium in Ghent, where he further developed his passion for sound and visual art. Nicolas approaches life as a grand montage, one he can observe, listen to, or cut and paste. His practice is deeply inspired by his fascination with media that have been abandoned, lost, or discarded. By placing them in a new context and integrating them into his art, he assigns them new roles or value. His method is a form of assemblage, bringing together found objects and sounds into a new, meaningful experience.",
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       "images": [
         {
           "path": "archive/project2/image1.jpg",
@@ -59,6 +221,75 @@
           "path": "archive/project3/image1.jpg",
           "caption": "https://open.spotify.com/album/4lf6vRXQcFyvilIk06Nab9?si=vKeA3V14SluY6-TxvvacBw"
         }
+<<<<<<< HEAD
+      ],
+      "pdfs": [
+        {
+          "path": "archive/project3/neofolkportfolio.pdf",
+          "caption": "Neofolk Portfolio"
+        }
+      ]
+    },
+    {
+      "title": "FM Ceremony",
+      "description": [
+        {
+          "title": "In-situ installation for Triennial Bruges/ We are, Art is! , 2024",
+          "text": ""
+        },
+        {
+          "title": "Material",
+          "text": "8x FM-Intercom<br><br>Statue from the basement<br><br>Picture from my sisters room"
+        }
+      ],
+      "images": [
+        {
+          "path": "archive/project4/image1.jpg",
+          "caption": "statue / comms (2024)"
+        },
+        {
+          "path": "archive/project4/image2.jpg",
+          "caption": "statue / comms (2024)"
+        },
+        {
+          "path": "archive/project4/image3.jpg",
+          "caption": "statue / comms (2024)"
+        },
+        {
+          "path": "archive/project4/image4.jpg",
+          "caption": "hope (2024)"
+        }
+      ]
+    },
+    {
+      "title": "Mary on Toast",
+      "description": [
+        {
+          "title": "Installation for Cursor Fever (2023), Vrijpaleis Amsterdam",
+          "text": "Derived from dissolving catholic architecture and mass pre-fab signalisation in the northern Belgian region, Pareidolia and Marian apparition on toasted bread."
+        },
+        {
+          "title": "Material",
+          "text": "Plexiglass<br><br>Wood<br><br>TL lights<br><br>Varnish"
+        }
+      ],
+      "images": [
+        {
+          "path": "archive/project5/image1.jpg",
+          "caption": "Mary on Toast (2023)"
+        }
+      ]
+    },
+    {
+      "title": "Old filmschool stuff",
+      "description": "",
+      "pdfs": [
+        {
+          "path": "archive/project6/film.pdf",
+          "caption": "Film Portfolio"
+        }
+=======
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
       ]
     }
   ]

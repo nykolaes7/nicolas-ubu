@@ -98,6 +98,14 @@ td {
 
 .calendar-table th {
     background-color: #330000;
+<<<<<<< HEAD
+    color: #ffffff;
+}
+
+.calendar-table td {
+    color: #000000;
+=======
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
 }
 
 /* Archive Project Styles */
@@ -272,4 +280,44 @@ button[type="submit"]:hover {
     margin-top: 10px;
     font-size: 14px;
     font-family: "Courier New", Courier, monospace;
+<<<<<<< HEAD
+}
+
+.project-pdfs {
+    margin: 20px 0;
+}
+
+.pdf-link {
+    color: #FF0000;
+    text-decoration: none;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    border: 1px solid #FF0000;
+    padding: 8px 16px;
+    display: inline-block;
+}
+
+.pdf-link:hover {
+    background-color: #FF0000;
+    color: #000000;
+}
+
+.pdf-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.project-video {
+    margin: 20px 0;
+    width: 100%;
+    max-width: 600px;
+}
+
+.credits {
+    color: #000000;
+    font-size: 12px;
+    margin-top: 10px;
+    font-family: "Courier New", Courier, monospace;
+=======
+>>>>>>> ac2f590ff7ca8f42b39424b9b46ce693343eebd9
 }

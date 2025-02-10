@@ -125,31 +125,58 @@ async function loadContent() {
         const archiveList = document.querySelector('.project-list');
         console.log('Archive list element:', archiveList);
         
-        archiveList.innerHTML = content.archiveProjects.map((project, index) => `
-            <div class="project-item">
-                <h3 class="project-title">${project.title}</h3>
-                <div class="project-content" style="display: none;">
-                    <div class="project-images">
-                        ${project.images.map(img => `
-                            <div class="project-image-container">
-                                <img src="${img.path}" alt="${img.caption}" class="project-image">
-                                <p class="image-caption">${img.caption}</p>
+        archiveList.innerHTML = content.archiveProjects.map((project, index) => {
+            return `
+                <div class="project-item">
+                    <h3 class="project-title">${project.title}</h3>
+                    <div class="project-content" style="display: none;">
+                        ${project.video ? `
+                            <div class="project-video">
+                                ${project.video}
                             </div>
-                        `).join('')}
-                    </div>
-                    <div class="project-description">
-                        <p>${project.description}</p>
-                    </div>
-                    <div class="project-navigation">
-                        <button class="nav-btn back-btn">Back to List</button>
-                        <div class="project-arrows">
-                            <button class="nav-btn prev-btn" ${index === 0 ? 'style="visibility: hidden"' : ''}>Previous</button>
-                            <button class="nav-btn next-btn" ${index === content.archiveProjects.length - 1 ? 'style="visibility: hidden"' : ''}>Next</button>
+                        ` : ''}
+                        ${project.images ? `
+                            <div class="project-images">
+                                ${project.images.map(image => `
+                                    <div class="project-image-container">
+                                        <img src="${image.path}" alt="${image.caption}" class="project-image">
+                                        <p class="image-caption">${image.caption}</p>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        ` : ''}
+                        ${project.description ? Array.isArray(project.description) ? `
+                            <div class="project-description">
+                                ${project.description.map(section => `
+                                    <h4>${section.title}</h4>
+                                    <br>
+                                    <p>${section.text}</p>
+                                    <br><br>
+                                `).join('')}
+                            </div>
+                        ` : `
+                            <div class="project-description">
+                                <p>${project.description}</p>
+                            </div>
+                        ` : ''}
+                        ${project.pdfs ? `
+                            <div class="project-pdfs">
+                                ${project.pdfs.map(pdf => `
+                                    <a href="${pdf.path}" class="pdf-link" target="_blank">${pdf.caption}</a>
+                                `).join('')}
+                            </div>
+                        ` : ''}
+                        <div class="project-navigation">
+                            <button class="nav-btn back-btn">Back to List</button>
+                            <div class="project-arrows">
+                                <button class="nav-btn prev-btn" ${index === 0 ? 'style="visibility: hidden"' : ''}>Previous</button>
+                                <button class="nav-btn next-btn" ${index === content.archiveProjects.length - 1 ? 'style="visibility: hidden"' : ''}>Next</button>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        `).join('');
+            `;
+        }).join('');
         
         initializeArchive();
     } catch (error) {
