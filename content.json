@@ -1,12 +1,12 @@
 {
   "currentProjects": [
     {
-      "date": "March 21, 2024",
-      "event": "A Girl in Every Port / Live Soundtrack",
-      "location": "Monokino, Kaap Oostende"
+      "date": "March 21, 2025",
+      "event": "A Girl in Every Port / Monokino",
+      "location": "Live Soundtrack, Kaap Oostende"
     },
     {
-      "date": "February 22 - March 16, 2024",
+      "date": "February 22 - March 16, 2025",
       "event": "A donner, chat perdu",
       "location": "Verduyn Gallery, Oudenaarde"
     },
@@ -42,7 +42,7 @@
     },
     {
       "date": "October 11, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "De Nieuwe Anita, Amsterdam"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "date": "September 20, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "STUK, Leuven"
     },
     {
@@ -62,32 +62,32 @@
     },
     {
       "date": "May 26, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Botanique, Brussels"
     },
     {
       "date": "May 23, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Democrazy, Antwerpen"
     },
     {
       "date": "May 2, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Atelier210, Brussels"
     },
     {
       "date": "April 25, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Pianofabriek, Brussels"
     },
     {
       "date": "April 20, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Brasserie Atlas, Brussels"
     },
     {
       "date": "February 9, 2024",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "TRIX, Antwerpen"
     },
     {
@@ -97,18 +97,108 @@
     },
     {
       "date": "November 24, 2023",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Botanique, Brussels"
     },
     {
       "date": "June 23, 2023",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "Botanique, Brussels"
     },
     {
       "date": "April 15, 2023",
-      "event": "Performance",
+      "event": "Performance Nykolaes & Daniël Paul",
       "location": "C-mine, Genk"
+    },
+    {
+      "date": "February 14, 2025",
+      "event": "Stroom (Valentine), Performance Nykolaes",
+      "location": "La Perle, Brussels"
+    },
+    {
+      "date": "April 17, 2025",
+      "event": "Toverberg, Performance Nykolaes & Daniël Paul",
+      "location": "Les Atelier Claus, Brussels"
+    },
+    {
+      "date": "April 4, 2025",
+      "event": "Nicolas Peeters: Medusa, Are We Nearly There Yet?, Performance Maison Caca",
+      "location": "Brussels"
+    },
+    {
+      "date": "May 29, 2025",
+      "event": "Nicolas Peeters: Spookhuis w/ Nykolaes",
+      "location": "Kiosk Radio, Brussels"
+    },
+    {
+      "date": "June 13, 2025",
+      "event": "Nicolas Peeters: Deardogs Daisy Ray release show, Performance Nykolaes",
+      "location": "Brussels"
+    },
+    {
+      "date": "July 3, 2025",
+      "event": "Nicolas Peeters: Spookhuis w/ Nykolaes",
+      "location": "Kiosk Radio, Brussels"
+    },
+    {
+      "date": "July 15, 2025",
+      "event": "Nicolas Peeters: Café Twali Marseille, Performance Nykolaes & Daniël Paul",
+      "location": "Marseille"
+    },
+    {
+      "date": "July 19, 2025",
+      "event": "Nicolas Peeters: Sacho Festival, Performance Nykolaes & Daniël Paul",
+      "location": "Rennes"
+    },
+    {
+      "date": "July 20, 2025",
+      "event": "Nicolas Peeters: La chapelle thouarault, Performance Nykolaes & Daniël Paul",
+      "location": "France"
+    },
+    {
+      "date": "August 1, 2025",
+      "event": "Nicolas Peeters: Theater aan Zee, Performance Nykolaes & Daniël Paul",
+      "location": "Belgium"
+    },
+    {
+      "date": "August 12, 2025",
+      "event": "Nicolas Peeters: Spookhuis w/ Nykolaes",
+      "location": "Kiosk Radio, Brussels"
+    },
+    {
+      "date": "August 25, 2025",
+      "event": "Nicolas Peeters: Lise @ Mari's, Performance Nykolaes",
+      "location": "Gent"
+    },
+    {
+      "date": "August 30, 2025",
+      "event": "Nicolas Peeters: Hark Festival Brugge, Performance Nykolaes & Daniël Paul",
+      "location": "Brugge"
+    },
+    {
+      "date": "September 7, 2025",
+      "event": "Nicolas Peeters: Woodblocks Festival, Performance Nykolaes & Daniël Paul",
+      "location": "Belgium"
+    },
+    {
+      "date": "October 26, 2024",
+      "event": "Performance Nykolaes",
+      "location": "Anker, Gent"
+    },
+    {
+      "date": "April 13, 2024",
+      "event": "Performance w/ Agatha Wara",
+      "location": "Damien & the love guru, Brussels"
+    },
+    {
+      "date": "March 22, 2025",
+      "event": "Performance w/ Agatha Wara",
+      "location": "Stage Bregenz 25"
+    },
+    {
+      "date": "October 2, 2024",
+      "event": "Performance w/ Agatha Wara",
+      "location": "Poésie contre fin du monde, Montpellier"
     }
   ],
   "archiveProjects": [
