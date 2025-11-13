@@ -174,8 +174,8 @@ async function loadContent() {
             <tr>
                 <td>${project.date}</td>
                 <td>${project.event}</td>
-                <td>${deriveActivity(project)}</td>
                 <td>${project.location}</td>
+                <td>${deriveActivity(project)}</td>
             </tr>
         `).join('');
         
