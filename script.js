@@ -113,10 +113,68 @@ async function loadContent() {
         const currentTable = document.querySelector('.calendar-table tbody');
         console.log('Current table element:', currentTable);
         
-        currentTable.innerHTML = content.currentProjects.map(project => `
+        // Helper: parse a date string and return a comparable Date (end of range if applicable)
+        const parseDateForSort = (dateStr) => {
+            // Cases:
+            // - "Month D, YYYY"
+            // - "Month D-D2, YYYY" (use D2)
+            // - "Month D, YYYY - Month D2, YYYY" (use right side)
+            // - "Month YYYY" (use last day of that month)
+            // - "Month D, YYYY - Month D2, YYYY" and "Month D, YYYY - Month D2, YYYY"
+            const months = [
+                'january','february','march','april','may','june',
+                'july','august','september','october','november','december'
+            ];
+            const lower = dateStr.toLowerCase();
+            // Range split
+            if (lower.includes('-')) {
+                const parts = dateStr.split('-');
+                const left = parts[0].trim();
+                const right = parts.slice(1).join('-').trim(); // in case multiple hyphens
+                // If right contains a month name, parse directly
+                const rightHasMonth = months.some(m => right.toLowerCase().includes(m));
+                if (rightHasMonth) {
+                    return new Date(right);
+                } else {
+                    // Pattern like "January 17-26, 2025" -> infer month from left
+                    // Extract month from left
+                    const leftMonth = months.find(m => left.toLowerCase().includes(m));
+                    if (leftMonth) {
+                        const monthCapitalized = leftMonth.charAt(0).toUpperCase() + leftMonth.slice(1);
+                        // right likely like "26, 2025"
+                        const inferred = `${monthCapitalized} ${right}`;
+                        return new Date(inferred);
+                    }
+                }
+            }
+            // Month YYYY
+            const monthYearMatch = dateStr.match(/^([A-Za-z]+)\s+(\d{4})$/);
+            if (monthYearMatch) {
+                const monthName = monthYearMatch[1];
+                const year = parseInt(monthYearMatch[2], 10);
+                const monthIndex = months.indexOf(monthName.toLowerCase());
+                // last day of month: day=0 of next month
+                return new Date(year, monthIndex + 1, 0);
+            }
+            // Fallback: let Date parse normal formats
+            return new Date(dateStr);
+        };
+        // Helper: derive activity from event/location
+        const deriveActivity = (project) => {
+            const e = (project.event || '').toLowerCase();
+            const l = (project.location || '').toLowerCase();
+            if (e.includes('radio') || l.includes('radio')) return 'Radio';
+            if (e.includes('performance')) return 'Performance';
+            return 'Expo';
+        };
+        const sortedProjects = [...content.currentProjects].sort((a, b) => {
+            return parseDateForSort(b.date) - parseDateForSort(a.date);
+        });
+        currentTable.innerHTML = sortedProjects.map(project => `
             <tr>
                 <td>${project.date}</td>
                 <td>${project.event}</td>
+                <td>${deriveActivity(project)}</td>
                 <td>${project.location}</td>
             </tr>
         `).join('');
